@@ -1,0 +1,7 @@
+{"googleAPI":
+    {
+        "SCOPES": "https://www.googleapis.com/auth/calendar",
+        "calendar_id": "example@gmail.com",
+        "auth_path": "auth.json"
+    }
+}
